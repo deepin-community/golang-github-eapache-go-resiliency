@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-eapache-go-resiliency (1.7.0-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release
+  * Update Standards-Version to 4.7.0 in d/control (no changes needed)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Mathias Gibbens <gibmat@debian.org>  Tue, 23 Jul 2024 04:16:19 +0000
+
+golang-github-eapache-go-resiliency (1.6.0-2) unstable; urgency=medium
+
+  * Source-only upload for migration
+
+ -- Mathias Gibbens <gibmat@debian.org>  Wed, 10 Apr 2024 01:01:30 +0000
+
+golang-github-eapache-go-resiliency (1.6.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1067553)
+
+ -- Mathias Gibbens <gibmat@debian.org>  Sat, 23 Mar 2024 14:57:37 +0000
